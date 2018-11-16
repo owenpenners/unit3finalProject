@@ -1,0 +1,21 @@
+body{
+  background-color: #ffcc99;
+}
+ul {
+  padding: 0;
+  margin:0;
+  list-style-type: none;
+  overflow:hidden;
+  background-color:black;
+  position: sticky;
+  top:0;
+}
+li a{
+  float: left;
+  text-decoration: none;
+  color:white;
+  padding: 14px 16px;
+}
+p{
+  font-size: 150%
+}
