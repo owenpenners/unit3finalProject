@@ -10,6 +10,9 @@ ul {
   position: sticky;
   top:0;
 }
+li a:hover{
+  background-color:blue;
+}
 li a{
   float: left;
   text-decoration: none;
@@ -21,4 +24,7 @@ p{
 }
 h1{
   font-size: 300%;
+}
+h2{
+  font-size: 125%;
 }
