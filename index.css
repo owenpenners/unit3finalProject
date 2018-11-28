@@ -21,10 +21,14 @@ li a{
 }
 p{
   font-size: 150%
+  color:  #004de6;
 }
 h1{
   font-size: 300%;
 }
 h2{
   font-size: 125%;
+}
+h3{
+  color: blue;
 }
